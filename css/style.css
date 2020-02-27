@@ -21,6 +21,9 @@ html {
     margin-right: 15%;
     margin-left: 15%;
   }
+    li {
+      font-size: small;
+    }
 
 
   @media screen and (max-width: 480px){
@@ -34,6 +37,11 @@ html {
         font-size: medium;
       }
       h3 {
-        font-size: small;
+        font-size: medium;
+        margin-left: 10%;
+        margin-right: 10%;
       }
+        li {
+          font-size: small;
+        }
   }
