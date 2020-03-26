@@ -2,17 +2,25 @@ html {
   text-align: center;
   line-height: 2em;
   font-family: tahoma;
-  margin-left: 10%;
-  margin-right: 10%;
+/*  margin-left: 10%;
+  margin-right: 10%;*/
+  background-color: #C4AEAE;
 }
   h1{
     font-size: 50px;
     font-weight: bold;
     padding-bottom: 45px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #312626;
+    color: white;
   }
   h2 {
     font-size: x-large;
     padding-bottom: 20px;
+    padding-top: 2.5%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
   h3 {
     font-size: medium;
@@ -23,7 +31,10 @@ html {
   }
     li {
       font-size: small;
+      align-content: center;
+
     }
+      
 
 
   @media screen and (max-width: 480px){
